@@ -1,0 +1,27 @@
+{
+  "name": "violet-selfie",
+  "version": "0.3.0",
+  "description": "Violet selfie skill for OpenClaw/Hermes agents via 9Router image models \u2014 the companion who cheers you up after a long day hunting onchain",
+  "bin": {
+    "violet-selfie": "./bin/violet-selfie.js"
+  },
+  "files": [
+    "bin/",
+    "skill/",
+    "templates/",
+    "examples/",
+    "README.md"
+  ],
+  "keywords": [
+    "openclaw",
+    "hermes",
+    "9router",
+    "selfie",
+    "image-generation",
+    "ai-agent"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

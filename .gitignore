@@ -1,0 +1,6 @@
+.env
+*.png
+*.jpg
+*.jpeg
+generated/
+node_modules/
